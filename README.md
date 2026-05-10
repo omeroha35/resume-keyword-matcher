@@ -10,6 +10,6 @@ This project compares a resume with a job description using basic NLP techniques
 - Python
 - Scikit-learn
 
-## Run
-pip install scikit-learn
+## How to Run
+pip install scikit-learn  
 python main.py
