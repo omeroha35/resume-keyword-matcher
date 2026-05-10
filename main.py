@@ -1,3 +1,4 @@
+# Compares resume and job description using cosine similarity
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
